@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite",
+  "description": "Affordable, hygienic homemade-style daily meals, snacks, and beverages delivered to college hostels and PGs in Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
